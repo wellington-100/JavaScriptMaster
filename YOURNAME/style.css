@@ -1,0 +1,16 @@
+body{
+    background-color: gray;
+    color: white;
+    font-family: sans-serif;
+
+}
+#nameInput{
+    padding: 5px;
+}
+#hiBtn{
+    padding: 5px;
+}
+#msgContainer{
+    padding: 5px;
+    border: 1px solid #334;
+}
