@@ -60,3 +60,4 @@ alert(
     "\nfree delivery: " +  free_delivery +
     "\n######### BILL ##########"
 )
+//#####
