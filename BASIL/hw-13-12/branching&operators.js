@@ -26,20 +26,20 @@ if (food_1_Q > food_1_availQ) {
     food_1_Q = parseInt(prompt(`So, how many "${food_1_N}" do you want?`));} 
 
 
-let food_2_Q = parseInt(prompt(`How many "${food_2_N}" do you want?`));
+let food_2_Q = parseInt(prompt("How many " + food_2_N + " do you want?"));
 if (food_2_Q > food_2_availQ) {
     alert("Sorry, we can offer only " + food_2_availQ + " " + food_2_N);
-    food_2_Q = parseInt(prompt(`So, how many "${food_2_N}" do you want?`));} 
+    food_2_Q = parseInt(prompt("So, how many " + food_2_N + " do you want?"));} 
 
-let food_3_Q = parseInt(prompt(`How many "${food_3_N}" do you want?`));
+let food_3_Q = parseInt(prompt("How many " + food_3_N + " do you want?"));
 if (food_3_Q > food_3_availQ) {
     alert("Sorry, we can offer only " + food_3_availQ + " " + food_3_N);
-    food_3_Q = parseInt(prompt(`So, how many "${food_3_N}" do you want?`));} 
+    food_3_Q = parseInt(prompt("So, how many " + food_3_N + " do you want?"));} 
 
-let food_4_Q = parseInt(prompt(`How many "${food_4_N}" do you want?`));
+let food_4_Q = parseInt(prompt("How many " + food_4_N + " do you want?"));
 if (food_4_Q > food_4_availQ) {
     alert("Sorry, we can offer only " + food_4_availQ + " " + food_4_N);
-    food_4_Q = parseInt(prompt(`So, how many "${food_4_N}" do you want?`));} 
+    food_4_Q = parseInt(prompt("So, how many " + food_4_N + " do you want?"));} 
 
 cost_1 = food_1_P * food_1_Q
 cost_2 = food_2_P * food_2_Q
