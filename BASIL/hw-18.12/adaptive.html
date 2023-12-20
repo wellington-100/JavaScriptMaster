@@ -1,0 +1,39 @@
+<!--
+    aka - media query
+-->
+<script>
+    // IN DATA
+    const EXTRA_SMALL_BREAK_POINT = 560
+    const SMALL_BREAK_POINT = 980
+    const MEDIUM_BREAK_POINT = 1200
+    const MIN_SIZE = 60
+    const MAX_SIZE = 3000
+
+    //----------------X-----------------------> window size
+    //    mobile      1100      desktop
+
+    // HW:1 add breakpoints
+    //              560              980             1200
+    //--------------x----------------X---------------x------------> window size
+    //  extra small         small          medium        large
+
+    // + size < 60 - error
+    // + size > 3000 - error
+
+
+    let windowWidth = innerWidth
+
+    // DECISION / adaptive
+    if (windowWidth <= MIN_SIZE || windowWidth >= MAX_SIZE) {
+        alert('ERROR: Anomalous size for a window: ' + windowWidth + " px");
+    } else if (windowWidth <= EXTRA_SMALL_BREAK_POINT) {
+        alert('window for Extra Small Devices: ' + windowWidth + " px");
+    } else if (windowWidth <= SMALL_BREAK_POINT) {
+        alert('window for Small Devices: ' + windowWidth + " px");
+    } else if (windowWidth <= MEDIUM_BREAK_POINT) {
+        alert('window for Medium Devices: ' + windowWidth + " px");
+    } else {
+        alert('window for Large Devices: ' + windowWidth + " px");
+    }
+
+</script>
