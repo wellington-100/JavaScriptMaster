@@ -1,0 +1,38 @@
+
+
+
+
+
+
+body{
+    background-color: #222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+#carousel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #555;
+    width: 900px;
+    height: 750px;
+    color: wheat;
+    font-size: 30px;
+    position: relative;
+}
+#carousel h4{
+    margin: 5px;
+}
+#carouselSlides{
+    border: 2px solid white;
+    width: 800px;
+    height: 600px;
+    top: 10px;
+    
+}

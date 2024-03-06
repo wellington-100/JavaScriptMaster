@@ -1,0 +1,35 @@
+
+
+
+
+<script>
+    // switch --> branching
+    // formula
+    let day = +prompt("Day of the week?")
+    let convention = prompt("According to which convention?(western/international)")
+    if (convention == "international"){
+        switch(day){
+            case 1: document.write("Mo"); break
+            case 2: document.write("Tu"); break
+            case 3: document.write("Wd"); break
+            case 4: document.write("Th"); break
+            case 5: document.write("Fr"); break
+            case 6: document.write("Sa"); break
+            case 7: document.write("Su"); break
+            default: document.write("The week has 7 days")
+        }
+    } else if (convention == "western"){
+        switch (day) {
+            case 1: document.write("Su"); break
+            case 2: document.write("Mo"); break
+            case 3: document.write("Tu"); break
+            case 4: document.write("Wd"); break
+            case 5: document.write("Th"); break
+            case 6: document.write("Fr"); break
+            case 7: document.write("Sa"); break
+            default: document.write("The week has 7 days")
+        }
+    } else {
+        alert("I know nothing about this")
+    }
+</script>

@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>INPUT VALIDATION / BRANCHING</title>
+</head>
+<body>
+    <input
+        id="inputPhone"
+        size="30"
+        type="text"
+        placeholder="enter your phone number"
+    >
+    <button onclick="validate()">GO</button>
+    <!--
+        VALIDATION:
+            +37322123456
+            +37361234567 < HW: validate mobile number
+
+        JS:
+         - DOM
+         - functions
+         - variables
+         - if/else
+         - String methods
+    -->
+    <script>
+        function validate(){
+            let fullNumber = inputPhone.value
+            // multi-level validation
+            if (fullNumber.startsWith('+373')){
+                let prefix = fullNumber.substring(4)
+                if (prefix.startsWith('22') ||
+                    prefix.startsWith('69') ||
+                    prefix.startsWith('68') ||
+                    prefix.startsWith('67') ||
+                    prefix.startsWith('79') ||
+                    prefix.startsWith('78')
+                ){
+                    //123456
+                    let number = prefix.substring(2)
+                    if (
+                        '0' <= number[0] && number[0] <= '9' &&
+                        '0' <= number[1] && number[1] <= '9' &&
+                        '0' <= number[2] && number[2] <= '9' &&
+                        '0' <= number[3] && number[3] <= '9' &&
+                        '0' <= number[4] && number[4] <= '9' &&
+                        '0' <= number[5] && number[5] <= '9' 
+                    ){
+                        alert('SUCCES!')
+                    } else {
+                        alert('ERROR: Wrong number format!')
+                    }
+                    
+                } else {
+                    alert('ERROR: Only Chisinau or mobile numbers allowed!')
+                }
+            } else {
+                alert('ERROR: Only Moldova numbers allowed!')
+            }
+            console.log(fullNumber)
+        }
+    </script>
+</body>
+</html>

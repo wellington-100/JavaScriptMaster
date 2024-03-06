@@ -1,0 +1,307 @@
+[33mcommit 37c30bd2f421840b4942ba00b7c580740beb7371[m[33m ([m[1;36mHEAD -> [m[1;32mbasic[m[33m, [m[1;31morigin/basic[m[33m)[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Mar 6 01:48:23 2024 +0200
+
+    new user methods
+
+[33mcommit 16f64a3bdb4482b6624c6f90e8e71ca3dc45f565[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Tue Mar 5 16:21:50 2024 +0200
+
+    other version...
+
+[33mcommit e9e3bb9cc12e396fce37c465a434285af282eba4[m
+Merge: f548bf5 a0b1f9b
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Tue Mar 5 15:56:28 2024 +0200
+
+    Resolved conflicts while pulling from origin/basic
+
+[33mcommit f548bf550fe52e8c866481e2f3b34cbb098a792a[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Tue Mar 5 15:51:56 2024 +0200
+
+    clients-list
+
+[33mcommit a0b1f9b6d23b506178dade9c1151e05446c0af9a[m
+Author: Vasile Andruscenco <134550335+wellington-100@users.noreply.github.com>
+Date:   Thu Feb 29 17:32:52 2024 +0200
+
+    test
+
+[33mcommit 6031b184871d6464a670cf99da6cb570066c2f07[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Feb 28 12:56:00 2024 +0200
+
+    classes
+
+[33mcommit 4eccabc57ef146439a1d8c83b401ab1cde799b01[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Tue Feb 20 12:33:00 2024 +0200
+
+    HW/07.02-12.02
+
+[33mcommit 7aa90efedb2439fc4007c0b92f2a822dd4bb6e8c[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Sun Feb 11 22:35:25 2024 +0200
+
+    real carousel
+
+[33mcommit a525b90a43db0b6000afae84026cbc53e79f2bbe[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Sun Feb 11 19:43:04 2024 +0200
+
+    real carousel
+
+[33mcommit 8a67a2d65703584e88a0f3df670cef5e4f4a9e03[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Fri Feb 9 22:03:30 2024 +0200
+
+    simple carousel
+
+[33mcommit 66c1c6283addcd61fcfa10c21c60c6b16d670f21[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Feb 7 15:08:43 2024 +0200
+
+    new hw
+
+[33mcommit 891b71923c6246e1bfc332fdab14af3bb9db3e9f[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Thu Feb 1 14:39:19 2024 +0200
+
+    barrel-game
+
+[33mcommit 085f95194e82c2f0917b02e27f702fbc2ea8935d[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Tue Jan 30 23:15:59 2024 +0200
+
+    pacman
+
+[33mcommit 212193b3177130260d0db40330963123c5ffb9b8[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Tue Jan 30 23:12:21 2024 +0200
+
+    pacman...
+
+[33mcommit c26dd9bd5d32e3515a34d1de184f94cc22ce29cd[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Mon Jan 29 14:24:15 2024 +0200
+
+    hw-robo
+
+[33mcommit cf577f4b8a1f294091783e360b27b62758458ebb[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Mon Jan 29 14:22:22 2024 +0200
+
+    hw-robo
+
+[33mcommit 487803550ef83aa8c482d6d645d383c36416a481[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Sun Jan 28 21:38:09 2024 +0200
+
+    sun-rise
+
+[33mcommit a603f5d4b5481ec27fc34e4ab2201b4a4c7850b0[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Tue Jan 23 22:32:52 2024 +0200
+
+    hw_15.01-22.01
+
+[33mcommit f04d7e7c989c2bde6d130ec3860870e485b773fa[m
+Merge: f70c95b 69eedb1
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Jan 10 16:01:04 2024 +0200
+
+    Merge branch 'basic' of https://github.com/wellington-100/git-test into basic
+
+[33mcommit f70c95bd3933dd8bcfe9e4f7f16fcfb835138e7a[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Jan 10 15:55:36 2024 +0200
+
+    looping
+
+[33mcommit e99bb76b36c30020af5f741df24dd31377e767f6[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Jan 10 15:39:00 2024 +0200
+
+    looping...
+
+[33mcommit 69eedb1fc42cac2d7ffd8cc86b30c47e5b131cde[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Jan 3 19:48:42 2024 +0200
+
+    exersices...
+
+[33mcommit b3ecb5fe9ad564ef096477eff0ee600976185665[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Jan 3 02:15:16 2024 +0200
+
+    alin badea lessons...
+
+[33mcommit a8d62e970a5f4657f356ee4aefda56f98460256e[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Jan 3 02:13:38 2024 +0200
+
+    alin badea lessons
+
+[33mcommit 8abbf52875c2165d51c8dbbc190d82b4c53c1535[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Thu Dec 28 18:51:10 2023 +0200
+
+    while-for-switch
+
+[33mcommit 22ed0b6d30b39c214f1184ed30a2a09e78aff0f3[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 27 01:56:48 2023 +0200
+
+    new exercises
+
+[33mcommit 5c807c13a7c32e43c9c9eec2d4344b23dbe2ea53[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Sat Dec 23 19:48:33 2023 +0200
+
+    exercises...
+
+[33mcommit 4c97dc2875890de673bba6ef838a4082fd5cdc8e[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 20 23:53:14 2023 +0200
+
+    add and-or.html
+
+[33mcommit c4a26c5954c31fb13c8e35193026c64cb8842518[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 20 23:12:43 2023 +0200
+
+    add adaptive.html
+
+[33mcommit 21100d2f120b1d371eeca3dfc32b9f191bba2066[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 20 20:28:22 2023 +0200
+
+    add validation.html
+
+[33mcommit 071c3f2472475dc1aae371d2ed3efbebd926f93e[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 20 20:21:06 2023 +0200
+
+    Update submodule
+
+[33mcommit 92b9cebe67f6599b3b0e438d9cc167c3e51e69b8[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 20 20:20:10 2023 +0200
+
+    Commit submodule changes
+
+[33mcommit c0abed487361c42cb99bd9f69fab1ce0916c03f0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Wellington-100 <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 20 20:18:46 2023 +0200
+
+    add validation
+
+[33mcommit ba2070648e03e5518ba52b7ca28eafe8ca8657ea[m
+Author: wellington-100 <134550335+wellington-100@users.noreply.github.com>
+Date:   Sat Dec 16 16:48:19 2023 +0200
+
+    dentist.html
+
+[33mcommit 2117ae31c751fee152962860b737ae72d2a6ff03[m
+Author: wellington-100 <134550335+wellington-100@users.noreply.github.com>
+Date:   Sat Dec 16 16:45:12 2023 +0200
+
+    new HTML file - dentist.html
+
+[33mcommit 0d8ac79f6f51c75ac72fd572c05e89db061d6f5e[m
+Author: wellington-100 <134550335+wellington-100@users.noreply.github.com>
+Date:   Fri Dec 15 17:08:16 2023 +0200
+
+    +grade.estimator&robot
+
+[33mcommit 1166ecd0ee8cf1f9774c16d07a854172c7498d60[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Fri Dec 15 00:37:18 2023 +0200
+
+    identification in JS + others exemples
+
+[33mcommit 6808b8f22def310108d35ec30e2df65a38ad9d28[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Thu Dec 14 16:04:30 2023 +0200
+
+    //
+
+[33mcommit cd11b70931abeb4282bed93c3a55698b1d053568[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Thu Dec 14 15:57:21 2023 +0200
+
+    ///
+
+[33mcommit ece4ced14ee65093767ae24539517b2337c14b9b[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Thu Dec 14 15:55:09 2023 +0200
+
+    //
+
+[33mcommit d7ea22948adcb0190227715d4d75a10a15f5d057[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Thu Dec 14 15:49:55 2023 +0200
+
+    //
+
+[33mcommit 7bc005a17c6e08c369244d2e21c80d2d5965ba35[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Thu Dec 14 15:43:40 2023 +0200
+
+    hw-if/else
+
+[33mcommit e49920105d240537a13f9e551f3be48efc01d605[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Thu Dec 14 14:21:49 2023 +0200
+
+    new exercices
+
+[33mcommit 83cdd14095d6bd424c191d1cfaef1e06071cdd56[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Sat Dec 9 23:30:21 2023 +0200
+
+    new exercises
+
+[33mcommit 61d1dd288be59b9d21b46232367c9da6331e96b9[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Sat Dec 9 16:42:28 2023 +0200
+
+    add folder others
+
+[33mcommit ffee32b769a11cc17ad2207d07a3bb25ceb1e99a[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 6 21:40:12 2023 +0200
+
+    a new file for test the git technology
+
+[33mcommit 44bc653f5ce980c080d7b71f98d92413f4579a19[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 6 21:34:58 2023 +0200
+
+    Аdd a few comments for test
+
+[33mcommit ec1e5acdd305a1a791919065f637dfd1d893281a[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 6 21:21:27 2023 +0200
+
+    Добавлен новый файл about.html и изменения в work_with_operators.js
+
+[33mcommit a71cc7234943fa3c827909cfa38a50d5f57f0b4b[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 6 19:15:16 2023 +0200
+
+    Updated project structure
+
+[33mcommit c71077653c0bddec24a90cd88947c09e256f93e9[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 6 19:13:08 2023 +0200
+
+    Added .gitignore with venv
+
+[33mcommit f5cab341bb71daa108feb9592244f3530358f26b[m
+Author: Vasile <vasile.andruscenco@gmail.com>
+Date:   Wed Dec 6 19:08:24 2023 +0200
+
+    Added venv to .gitignore

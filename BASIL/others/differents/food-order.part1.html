@@ -1,0 +1,22 @@
+<script>
+    // IN: our app ask the user for the desired quantity
+    // FACT: we know the price for the each item
+    // OUT: total cost
+    foodName  = "Salad"
+    foodPriceValue = 15.00
+    foodPriceUnits = "MDL"
+
+   
+    clientQuantity = prompt("MENU\n" + foodName + "\nHow many?"
+        )
+
+    totalCost = foodPriceValue * clientQuantity
+
+   
+    alert(
+        "\nyou've ordered " + clientQuantity + 
+        "\nbill " + totalCost + foodPriceUnits
+        )
+
+
+</script>

@@ -1,0 +1,20 @@
+<!-- FOOD ORDER DILEMA -->
+<script>
+    // LINEAR CODE  
+    foodName = "Salad"  // string
+    foodprice = 15.00   // number
+    foodAvailQ = 5      // number
+
+    clientQ = parseInt(prompt("How many " + foodName + " do you want?"))
+    // HERE - DECISION?
+    if (foodAvailQ >= clientQ){
+        cost = foodprice * clientQ
+        alert("Total cost: " + cost)
+    } else {
+        alert("Sorry, we can offer only  " + foodAvailQ + " " + foodName)
+    }
+
+    
+
+    
+</script>

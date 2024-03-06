@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS basic i-active example</title>
+</head>
+<body>
+    
+    <h1>Simple form | age calculator</h1>
+    <input
+        id="person_dob" 
+        type="text"
+        placeholder="enter year of bird"
+        size="15"
+        />
+    <button 
+        onclick="result.innerText = 1900 + new Date().getYear()- person_dob.value"
+        >calculate age</button>
+    <h3>your age is:</h3>
+    <h3 id="result">...</h3>
+
+</body>
+</html>

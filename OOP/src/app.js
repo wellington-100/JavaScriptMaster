@@ -1,0 +1,6 @@
+
+new User('johny', 20, 'https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesarSidePart&accessoriesType=Kurt&hatColor=Black&hairColor=Auburn&facialHairType=MoustacheMagnum&facialHairColor=Brown&clotheType=BlazerShirt&eyeType=Cry&eyebrowType=SadConcernedNatural&mouthType=Eating&skinColor=Light', true),
+new User('marry', 21, 'https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light', false),
+new User('pete', 22, 'https://avataaars.io/?avatarStyle=Circle&topType=ShortHairTheCaesar&accessoriesType=Prescription01&hairColor=Black&facialHairType=MoustacheFancy&facialHairColor=Auburn&clotheType=BlazerShirt&clotheColor=PastelYellow&eyeType=Squint&eyebrowType=AngryNatural&mouthType=Default&skinColor=Black', true),
+new User('tony', 22, 'https://avataaars.io/?avatarStyle=Circle&topType=WinterHat3&accessoriesType=Kurt&hatColor=Blue02&hairColor=Black&facialHairType=BeardMedium&facialHairColor=BrownDark&clotheType=GraphicShirt&clotheColor=White&graphicType=Skull&eyeType=Default&eyebrowType=UpDownNatural&mouthType=Concerned&skinColor=Pale', true)
+

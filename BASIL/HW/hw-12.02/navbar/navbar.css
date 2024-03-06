@@ -1,0 +1,49 @@
+body {
+    background-color: #223;
+    font-family: Arial;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+#navbar {
+    background-color: #112;
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#navbar a {
+    color: white;
+    font-size: 1.25em;
+    padding: .5em;
+}
+
+#navbar button {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#navbarDrop {
+    position: absolute;
+    background-color: #112;
+    width: 100%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+#navbarDrop a {
+    display: block;
+    padding: 10px;
+    color: white;
+    border-bottom: 1px solid #333;
+}
+
+#navbarDrop a:hover {
+    background-color: #333;
+}

@@ -1,0 +1,54 @@
+
+<script>
+    // DATA
+    const PIN = '0009'
+    let pin = ''
+    let tries = 0
+    let balance = 1000000.00
+    limit = 50000.00
+    while(true){
+        pin = prompt('ENTER PIN: ')
+        tries++
+        let AttemptsLeft = 3-tries
+        if (pin == PIN){
+            alert('ACCES GRANTED!!!\n\n')
+            while(true){
+                let choice = prompt('MENU\n\n1. Check Balance\n2. Withdraw\n3. Exit\n\nChoise an option: ')
+                if (choice == '1'){
+                    alert(`Your balance: ${balance} MDL`)
+                    continue
+                } else if (choice == '2'){
+                    let money = +prompt(`Withdrawal limit: ${limit} MDL\n\nAmount to withdraw: `)
+                    if (money <= 0) {
+                        alert('Choose a valid amount!!!')
+                    } else if (money <= balance) {
+                        if (money <= limit) {
+                            balance -= money
+                            alert(`SUCCES!!!\n\nYou withdrew: ${money} MDL\nYour current balance: ${balance} MDL`)
+                        } else {
+                            alert('The amount to withdraw exceeds the limit')
+                        }
+                    } else {
+                        alert(`The amount to withdraw exceeds the limit\nYour current balance: ${balance} MDL`)
+                    }
+                    continue
+                } else if (choice == '3') {
+                        alert('Thank you! See you soon!')
+                        break
+                } else {
+                    alert('Invalid option!!!')
+                    continue
+                }
+            }
+            break
+        } else {
+            if  (AttemptsLeft > 0){
+                alert(`WRONG PIN!!!\n\n Attempts left: ${AttemptsLeft}`)
+            }    
+            if (tries == 3){
+                alert('CARD BLOCKED!!!')
+                break
+            }
+        }
+    }
+</script>
